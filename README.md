@@ -1,3 +1,3 @@
 # Slip-Frontend
 mpvue structure
-RichardZhiLi
+name:RichardZhiLi

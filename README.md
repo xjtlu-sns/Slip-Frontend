@@ -1,3 +1,4 @@
 # Slip-Frontend
 mpvue structure
-name:RichardZhiLi
+- RichardZhiLi
+- Dou Hong
